@@ -41,7 +41,6 @@ body{
     }
    }
    main{
-    border: 2px solid #fff;
     margin-top: 190px;
     width: fit-content;
     margin-inline: auto;
@@ -53,7 +52,6 @@ body{
     margin-bottom: 24px;
   }
   a{
-    border: 2px solid #fff;
     display: block;
     margin-inline: auto;
     width: fit-content;
